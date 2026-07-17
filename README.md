@@ -8,7 +8,10 @@ The system integrates data preprocessing in Python, SQL-based analytics using SQ
 
 ---
 
+## Problem Statement
+Modern network infrastructures generate massive volumes of traffic, making it difficult to distinguish legitimate activity from malicious behavior in real time. Organizations face increasing risks from Distributed Denial of Service (DDoS) attacks and abnormal traffic patterns that can disrupt services and expose vulnerabilities. Traditional rule-based detection systems often fail to adapt to evolving attack strategies. This project aims to analyze network traffic data, detect anomalous behavior using machine learning, and provide actionable threat intelligence through an interactive analytics dashboard.
 
+---
 ## Dataset Information
 
 - Dataset: CICIDS 2017  
@@ -212,3 +215,7 @@ This project demonstrates a complete cybersecurity analytics lifecycle:
 It bridges technical data science implementation with operational cybersecurity insight, making it applicable for data analyst, security analyst, and threat intelligence roles.
 
 ---
+
+Author 
+Jiya Attar
+Aspiring Data Analyst | SQL | Python | Excel | Power BI 
